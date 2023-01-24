@@ -1,2 +1,2 @@
 # JavaProjects
-These are basic samples of different project i worked while studying java consisting of different topics.
+This is actually my first project to be pushed to the Github platform.
